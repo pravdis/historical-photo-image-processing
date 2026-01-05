@@ -1,5 +1,4 @@
-# Historical Photo Image Processing (Assignment 2)
-
+# Historical Photo Image Processing 
 The project applies classical image processing techniques (denoising, edge detection, and segmentation) to a severely degraded historical photograph from circa 1880. The emphasis is on exploratory analysis, methodological limitations, and interpretability rather than full image restoration.
 
 ---
